@@ -34,6 +34,7 @@ function App() {
             src='https://1.bp.blogspot.com/-qiIQ1CVcoCw/VGKGylcMghI/AAAAAAAAAQs/uMjWU2G-Ayw/s1600/6.%2BTena%2B-%2BMonumento%2Ba%2BJumandy%2B(Mintur).jpg' alt="" width="300" height="190" 
           /> </center>
 
+        
         <p>
           <code> HISTORIA </code>
         </p>
