@@ -120,6 +120,16 @@ function App() {
         <center>¡Salve oh Napo, Oriente Ecuador! </center>
         </p>
 
+        <p>
+          <code>ESCUELA SUPERIOR POLITÉCNICA DE CHIMBORAZO </code>
+        </p>
+        <img
+            className='smallImage'
+            src='https://upload.wikimedia.org/wikipedia/commons/e/ee/Escudo_de_la_Escuela_Superior_Polit%C3%A9cnica_de_Chimborazo.png' width="200" height= "200" 
+          /> 
+          <p>
+          <code>REALIZADO POR : Thamara Mishel Catagña Caiza </code>
+        </p>
       </header>
     </div>
   );
