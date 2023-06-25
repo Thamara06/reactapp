@@ -7,10 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
 
-        <p>
-        <code>  NAPO UN PARAISO DE MARAVILLAS</code> 
-        </p>
-
+      <p></p>
+        <b>  NAPO UN PARAISO DE MARAVILLAS</b> 
+        
         <p>
         La provincia de Napo es una de las provincias de la Región Centro Norte (Ecuador), de la República del Ecuador, situada en la región amazónica ecuatoriana e incluyendo parte de las laderas de los Andes,
         hasta las llanuras amazónicas. Toma su nombre del río Napo. Su capital es la ciudad de Tena. Limita al norte con Sucumbíos, al sur con Pastaza, al oeste con Pichincha, Cotopaxi y Tungurahua y al este con la
@@ -35,9 +34,9 @@ function App() {
           /> </center>
 
         
-        <p>
-          <code> HISTORIA </code>
-        </p>
+        <p></p>
+          <b> HISTORIA </b>
+        
         Presencia de los Incas en la zona del Napo.
         
         <p>
@@ -70,12 +69,94 @@ function App() {
             className='smallImage'
             src='https://cdn.audleytravel.com/3988/2848/79/482218-napo-wildlife-centre.jpg' alt="" width="300" height="190" 
           /> </center>
+        <p></p>
+          <b>CARACTERÍSTICAS MÁS RELEVANTES </b>
+        
+        <p>
+        <b>Relieve : </b>
+        
+        Un lomo orográfico de unos 400 kms desde el Guayas hasta Esmeraldas se 
+        articula con la cordillera de los Andes y constituye la cordillera costanera.
+        Empieza con los cerros Las Cabras cerca de Durán, intercepta el río Guayas con 
+        el Cerrito, reaparece con las alturas Las Peñas, Santa Ana, El Carmen y el 
+        Manicomio en Guayaquil; se levanta hacia el NO con los nombres de Chongón, 
+        Colonche, Manglaralto en la provincia del Guayas y continúa hasta Manabí y 
+        Esmeraldas. Las mayores alturas que oscilan entre 700 y 800 mts. corresponden 
+        a la cordillera de Chongón y Colonche
+        </p>
+          <center><img
+            className='smallImage'
+            src='https://s1.wklcdn.com/image_31/956820/36511176/23635951.700x525.jpg'alt="" width="300" height="190" 
+          />
+        <img
+            className='smallImage'
+            src='https://thumbs.dreamstime.com/b/napo-ecuador-%E1%B5%89%CA%B3-ayuda-acercamiento-la-provincia-de-perspectiva-oblicua-mapa-topogr%C3%A1fico-relieve-con-aguas-superficiales-d-188574828.jpg'alt="" width="300" height="190" 
+          />
+        
+        <img
+            className='smallImage'
+            src='https://www.turismoeneldorado.ec/wp-content/uploads/2014/05/Napo-2-ruta-de-el-dorado-960x480.jpg' alt="" width="300" height="190" 
+          /> </center>
 
         <p>
-          <code> SIMBOLOS PATRIOS DE NAPO </code>
+        <b>Flora : </b>
+        Cuenta con exuberante vegetación, razón por la cual encierra la mayor reserva forestal, con variedad de especies vegetales
+         como pumamaqui, arrayán, espadaña, yagual, palma de ramos, licopodio, gencianas, achupalla, pajonales, cedro, chuncho, ceibo, 
+         garango, caoba, chontaduro, tagua, olivo, varios tipos de orquídeas, bromelias, anturios, frailejón y heliconias.
         </p>
+        <center><img
+            className='smallImage'
+            src='https://www.surtrek.com/es/images/contents/ecuador/amazon/yasuni-rainforest-landscape-600x367.jpg'alt="" width="300" height="190" 
+          />
+        <img
+            className='smallImage'
+            src='https://www.ambiente.gob.ec/wp-content/uploads/2021/06/jardines-botanicos.jpg'alt="" width="300" height="190" 
+          />
+        
+        <img
+            className='smallImage'
+            src='https://images.mnstatic.com/f4/03/f4033af6ac727ebe483e606046fc7730.jpg?quality=75&format=pjpg&height=300&fit=crop' alt="" width="300" height="190" 
+          /> </center>
+
+        <p>
+        <b>Fauna : </b>
+        El Oso de Anteojos, venado, cervicabra, mono machín, chichico, danta o tapir, jaguar, tigrillo, puma, Puercoespín, guanta, 
+        oso hormiguero y otros son su mayor riqueza.
+        </p>
+        <center><img
+            className='smallImage'
+            src='https://wwflac.awsassets.panda.org/img/home_1_1_750721.jpg'alt="" width="300" height="190" 
+          />
+        <img
+            className='smallImage'
+            src='https://ecuventure.com/wp-content/uploads/2018/12/venado-1-600x450.jpg'alt="" width="300" height="190" 
+          />
+        
+        <img
+            className='smallImage'
+            src='https://www.researchgate.net/publication/337409269/figure/fig2/AS:829077648838658@1574678923649/Tapirus-pinchaque-Credit-Patricio-Pillajo-Location-Papallacta-Cayambe-Coca-National.ppm' alt="" width="300" height="190" 
+          /> </center>
+        
+        <p>
+          <b>Orografía : </b>
+          En el límite occidental que comparte con las provincias de Tungurahua, Cotopaxi y Pichincha se levantan, 
+          de sur a norte, montañas como el Cerro Hermoso en la cordillera de los Llanganates, Sincholagua, Cotopaxi,
+           Antisana, Saraurco etc. En esta franja de frontera existen también cientos de lagunas, muchas de ellas 
+           desconocidas. En el tramo de la tercera cordillera se levantan el Sumaco, Pan de Azúcar, Cerro Negro y 
+           Reventador; los Guacamayos que tienen una dirección este suroeste propician la formación de tres cuencas 
+           hidrográficas.
+        </p>
+        <img
+            className='smallImage'
+            src='https://map.viamichelin.com/map/carte?map=viamichelin&z=10&lat=-1.03549&lon=-77.66991&width=550&height=382&format=png&version=latest&layer=background&debug_pattern=.*' width="500" height= "350" 
+          />
+
+
+        <p></p>
+          <b> SIMBOLOS PATRIOS DE NAPO </b>
+        
         <p> 
-          ESCUDO DE NAPO
+          Escudo de Napo
         </p>
         <img
             className='smallImage'
@@ -83,14 +164,14 @@ function App() {
           /> 
         
         <p> 
-          BANDERA DE NAPO
+          Bandera de Napo
         </p>
         <img
             className='smallImage'
             src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bandera_Provincia_Napo.svg/1200px-Bandera_Provincia_Napo.svg.png' width="250" height= "200" 
           /> 
         <p>
-          <code> HIMNO DE NAPO </code>
+          <code> Himno de Napo </code>
         </p>
         <p>
         <center>Y Dios creó esta tierra esplendorosa y bella</center>
@@ -122,14 +203,14 @@ function App() {
         </p>
 
         <p>
-          <code>ESCUELA SUPERIOR POLITÉCNICA DE CHIMBORAZO </code>
+          <b>ESCUELA SUPERIOR POLITÉCNICA DE CHIMBORAZO </b>
         </p>
         <img
             className='smallImage'
             src='https://upload.wikimedia.org/wikipedia/commons/e/ee/Escudo_de_la_Escuela_Superior_Polit%C3%A9cnica_de_Chimborazo.png' width="200" height= "200" 
           /> 
           <p>
-          <code>REALIZADO POR : Thamara Mishel Catagña Caiza </code>
+          <b>REALIZADO POR : </b> Thamara Mishel Catagña Caiza 
         </p>
       </header>
     </div>
